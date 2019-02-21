@@ -1,0 +1,10 @@
+.idea
+node_modules/
+.vscode
+.cache-loader/
+.yarnclean
+yarn-error.log
+dist/*
+docs/*
+linter/*
+coverage/*

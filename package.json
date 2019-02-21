@@ -1,0 +1,15 @@
+{
+    "name": "soa-calculator",
+    "version": "1.0.0",
+    "description": "Project notes/description.",
+    "license": "MIT",
+    "scripts": {
+        "start": "start dotnet run -p ./MathApi && start node ./SocketApp/index.js && start node ./ClientApp/server/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://bitbucket.org/mchaov/soa.git"
+    },
+    "devDependencies": {},
+    "dependencies": {}
+}

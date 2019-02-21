@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://client-app/./src/pages/home/home.less"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"main.css","sourcesContent":[".home {\n  width: 400px;\n  height: auto;\n  padding: 10px;\n  margin: 1% auto;\n  border-radius: 2px;\n  border: 1px solid #cecece;\n}\n"],"sourceRoot":""}
